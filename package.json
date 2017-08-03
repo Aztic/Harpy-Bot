@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "discord.js": "^11.1.0",
+    "twit": "^2.2.9"
+  }
+}
