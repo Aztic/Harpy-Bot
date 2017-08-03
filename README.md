@@ -1,5 +1,5 @@
 # Twitter-Images-Bot
-An discord bot that post all images of desired twitter user in desired Discord channels
+A discord bot that post all images of desired twitter user in desired Discord channels
 
 ## Requirements
 - [discord.js](https://discord.js.org)
