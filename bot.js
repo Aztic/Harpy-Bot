@@ -94,14 +94,7 @@ stream.on('connected',response=>{
 configureStream(stream);
 
 /** END TWITTER **/
-/*
-T.get('users/show/JhosevicCR',function(err,data,response){
-	if(err){
-		console.log(err);
-	}
-	console.log(data)
-})
-*/
+
 client.on('ready', ()=>{
 	console.log("Logged in as Harpy");
 	client.user.setGame("Twitter");
