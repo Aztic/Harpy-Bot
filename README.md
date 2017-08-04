@@ -1,4 +1,4 @@
-# Twitter-Images-Bot
+# Harpy-Bot
 A discord bot that post all images of desired twitter user in desired Discord channels
 
 ## Requirements
