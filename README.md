@@ -16,14 +16,6 @@ npm install
 
 You can have many channels and many users in same/different channels. The data is stored in two files: `ids.json` and `channels.json`
 
-## Data info
-- ids.json: This is just an array of all users, it doesnt matter the channel.
-- channels.json
- An array of dictionary, every position of the array have this structure 
-```javascript
-{channel:'channel_id',ids:[all,the,users,of,this,channel]}
-```
-
 ## TODO
 - Fix the twitter stream connection (sometimes it connects, sometimes wont)
 
